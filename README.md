@@ -2,7 +2,7 @@
 
 This is a simple (and not really clever) TamperMonkey script to benefit from the `w=1` url flag in GitHub.
 
-This script introduces two keyboard shortcuts:
+This script introduces two keyboard shortcuts you'll be able to use when in a Pull Request comparison view:
 
 - *w*: toggle from the two modes
 - *W*: toggle the `w=1` mode as default
