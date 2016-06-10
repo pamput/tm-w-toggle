@@ -1,4 +1,4 @@
-# tm-w-toogle
+# tm-w-toggle
 
 This is a simple (and not really clever) TamperMonkey script to benefit from the `w=1` url flag in GitHub.
 
